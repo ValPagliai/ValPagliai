@@ -2,7 +2,7 @@
 title: "Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/first-paper
+permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-08
 venue: 'Proceedings of the Third Workshop on Quantitative Syntax (QUASY, SyntaxFest 2025)'
