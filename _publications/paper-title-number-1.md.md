@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-08
+date: 2025-08-01
 venue: 'Proceedings of the Third Workshop on Quantitative Syntax (QUASY, SyntaxFest 2025)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://aclanthology.org/2025.quasy-1.11.pdf'
